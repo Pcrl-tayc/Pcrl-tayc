@@ -1,0 +1,161 @@
+﻿Country Name,Country Code,Regulatory_Stringency_Index
+Albania,ALB,0.833333333
+Angola,AGO,0.925925926
+Antigua and Barbuda,ATG,0.958333333
+Argentina,ARG,0.925925926
+Armenia,ARM,0.866666667
+Aruba,#N/A,0.916666667
+Australia,AUS,0.793103448
+Austria,AUT,0.821428571
+Azerbaijan,#N/A,0.769230769
+Bahrain,BHR,0.928571429
+Bangladesh,BGD,0.882352941
+Belarus,BLR,0.821428571
+Belgium,BEL,0.8
+Belize,BLZ,0.875
+Benin,BEN,0.875
+Bermuda,#N/A,0.923076923
+Bhutan,BTN,0.956521739
+Bolivia,BOL,0.869565217
+Bosnia and Herzegovina,BIH,0.862068966
+Botswana,BWA,0.964285714
+Brazil,BRA,0.925925926
+British Virgin Islands,#N/A,0.821428571
+Bulgaria,BGR,0.821428571
+Burkina Faso,BFA,0.875
+Burundi,BDI,0.884615385
+Cabo Verde,CPV,0.88
+Canada,CAN,0.862068966
+Cayman Islands,#N/A,0.851851852
+Chile,CHL,0.916666667
+China,CHN,0.961538462
+Colombia,COL,0.892857143
+Comoros,COM,1
+"Congo, Dem. Rep.",#N/A,0.8
+Cook Islands,#N/A,0.92
+Costa Rica,CRI,0.9375
+Croatia,HRV,0.966666667
+Curaçao,#N/A,0.896551724
+Cyprus,CYP,0.75862069
+Czech Republic,CZE,0.851851852
+Côte d'Ivoire,#N/A,0.875
+Denmark,DNK,0.833333333
+Djibouti,DJI,0.888888889
+Dominican Republic,DOM,0.88
+Ecuador,ECU,0.913043478
+El Salvador,SLV,0.909090909
+Estonia,EST,0.857142857
+Eswatini,#N/A,0.909090909
+Fiji,FJI,0.75
+Finland,FIN,0.730769231
+France,FRA,0.785714286
+"Gambia, The",GMB,0.95
+Georgia,GEO,0.892857143
+Germany,DEU,0.888888889
+Ghana,GHA,0.928571429
+Gibraltar,#N/A,0.777777778
+Greece,GRC,0.724137931
+Guatemala,GTM,0.863636364
+Guernsey,#N/A,0.827586207
+Guinea-Bissau,GNB,0.875
+Guyana,GUY,0.84
+Haiti,HTI,0.923076923
+Honduras,HND,0.928571429
+"Hong Kong SAR, China",#N/A,0.88
+Hungary,HUN,0.821428571
+Iceland,ISL,0.888888889
+India,IND,0.928571429
+Indonesia,IDN,0.896551724
+Ireland,IRL,0.75
+Israel,ISR,0.851851852
+Italy,ITA,0.833333333
+Jamaica,JAM,0.962962963
+Japan,JPN,0.793103448
+Jersey,#N/A,0.827586207
+Jordan,JOR,0.862068966
+Kenya,KEN,0.962962963
+"Korea, Rep.",KOR,0.964285714
+Kosovo,#N/A,0.92
+Kuwait,KWT,0.925925926
+Kyrgyz Republic,KGZ,0.857142857
+Latvia,LVA,0.793103448
+Lebanon,LBN,0.888888889
+Lesotho,LSO,0.84
+Liberia,LBR,0.904761905
+Liechtenstein,#N/A,0.766666667
+Lithuania,LTU,0.740740741
+Luxembourg,LUX,0.833333333
+"Macao SAR, China",#N/A,0.896551724
+"Macedonia, FYR",#N/A,0.931034483
+Madagascar,MDG,0.913043478
+Malawi,MWI,0.962962963
+Malaysia,MYS,0.866666667
+Maldives,MDV,1
+Mali,MLI,0.875
+Malta,MLT,0.84
+Marshall Islands,MHL,0.862068966
+Mauritania,MRT,0.961538462
+Mauritius,MUS,0.892857143
+Mexico,MEX,0.896551724
+Moldova,MDA,0.88
+Montenegro,#N/A,0.896551724
+Montserrat,#N/A,0.947368421
+Morocco,MAR,0.892857143
+Mozambique,MOZ,0.857142857
+Namibia,NAM,0.964285714
+Nepal,NPL,0.923076923
+Netherlands,NLD,0.793103448
+New Zealand,NZL,0.84
+Nicaragua,NIC,0.892857143
+Niger,NER,0.875
+Nigeria,NGA,0.965517241
+Norway,NOR,0.76
+Oman,OMN,0.933333333
+Pakistan,PAK,0.896551724
+Palau,#N/A,0.888888889
+Panama,PAN,0.923076923
+Papua New Guinea,PNG,0.875
+Paraguay,PRY,0.782608696
+Peru,PER,0.965517241
+Philippines,PHL,0.931034483
+Poland,POL,0.892857143
+Portugal,PRT,0.821428571
+Qatar,QAT,0.931034483
+Romania,ROU,0.862068966
+Russian Federation,RUS,0.896551724
+Rwanda,RWA,0.888888889
+Samoa,WSM,0.923076923
+San Marino,#N/A,0.84
+Saudi Arabia,SAU,0.933333333
+Senegal,SEN,0.875
+Serbia,SRB,0.896551724
+Seychelles,SYC,0.916666667
+Singapore,SGP,0.857142857
+Slovak Republic,SVK,0.827586207
+Slovenia,SVN,0.869565217
+South Africa,ZAF,0.862068966
+Spain,ESP,0.896551724
+Sri Lanka,LKA,0.862068966
+Suriname,SUR,0.851851852
+Sweden,SWE,0.785714286
+Switzerland,CHE,0.833333333
+São Tomé and Principe,#N/A,0.958333333
+"Taiwan, China",#N/A,0.931034483
+Tajikistan,TJK,0.96
+Tanzania,TZA,0.961538462
+Thailand,THA,0.9
+Togo,TGO,0.875
+Tonga,TON,0.846153846
+Trinidad and Tobago,TTO,0.923076923
+Tunisia,TUN,0.928571429
+Turkey,TUR,0.931034483
+Turks and Caicos Islands,#N/A,0.952380952
+Uganda,UGA,0.925925926
+Ukraine,UKR,0.851851852
+United Kingdom,GBR,0.793103448
+United States of America,USA,0.892857143
+Uruguay,URY,0.931034483
+Vanuatu,VUT,0.925925926
+Vietnam,VNM,0.884615385
+West Bank and Gaza,#N/A,0.888888889
+Zimbabwe,#N/A,0.931034483
