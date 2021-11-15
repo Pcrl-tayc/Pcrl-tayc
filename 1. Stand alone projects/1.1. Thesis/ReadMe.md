@@ -1,19 +1,18 @@
 # Dissertation project
 ## FinTech and BigTech credit: a machine learning approach
-## Vrije Universiteit Amsterdam
+### Vrije Universiteit Amsterdam
 Leading tech companies have penetrated the credit market business, developing lending platforms and nondisclosed rating models, with world-spanning infrastructure (Elsinger et al., 2018), and raising concerns regarding their potential systemic impact. Along with other forms of credit, such new types of lending have the potential to support economic growth, foster financial inclusion, with innovations reaching millions of users in a remarkably short period, enhance efficiency, and expand the range of available funding sources for households and firms. However, there is still an ongoing regulatory debate with regards to the possible risks to the macroeconomy and financial system that they engender, given for instance the hyper-scalability and wide access to customers´ data that BigTech firms have, and the need to test many of the innovations over a full financial cycle. Hence, decisions made at this early stage can set important precedents. (Cornelli et al., 2020; FSB, 2017)
 
 As some authors point out (Greene, 2000; Wooldridge, 2010; Brooks, 2019; Gujarati, 2021) traditional econometrics often focuses on the estimation of a parameter of a statistical model describing the distribution of a given set of variables, and the focus is on the quality of that estimation based on confidence intervals and standard errors. While the ability to construct valid confidence intervals over large samples remains important in many cases, approaches not yet capable of providing them should not be discarded altogether if these approaches have other advantages. This is especially true if these methods have been shown to outperform out-of-sample predictive power in specific data sets. (Athey & Imbens, 2019)
 
 Leveraging on the ability of machine learning systems to learn from the data, this paper employs the variables contributed by the previous studies, and expands on them by including others specific to this study, to develop a model capable of effectively predicting alternative credit volumes. The rationale for employing this new methodology is based on the emerging idea of moving away from exclusive dependence on data models and using newly available tools as an alternative to data modeling to solve problems more accurately. (Breiman, 2001)
 
-
-# 1.) Dependent Variables
+## Data Employed
+### Dependent Variables
 
 Total Alternative Credit- Defined as the sum of FinTech credit and BigTech credit provided in the ith economy at time t.
 
-# 2.) Independent Variables
-
+### Independent Variables
  
    (World Bank)- GDP/capita (current USD). GDP per capita is gross domestic product divided by midyear population.
    
