@@ -1,5 +1,5 @@
 # Vrije Uni
-Thesis project on forecasts of credit growth of the FinTech and BigTech industries. Vrije Universiteit Amsterdam.
+Dissertation project-Vrije Universiteit Amsterdam. Regression model to forecast of credit volume of the FinTech and BigTech industries worlwide. Please be aware that the Features´ dataset employed was merged from many other data sources. The script for uploading the different datasets into the virtual environment, merging them and some preliminary pre-processing steps are not uploaded into this repository. Should you be interested in obtaining the aforesaid script please do not hesitate to contact me.
 
 # 1.) Dependent Variables
 
