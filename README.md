@@ -9,6 +9,5 @@ interpret the results and thereby be able to participate in the process of every
 sCrLea= ("I am currently involved in the development of some projects within the field of Quantitative Financial Risk Managament, as well as some other 
 side projects in Machine Learning. I am open to any kind of collaboration, recommendation on my projects that will enable me to further learn and progress.")
 
-lCtcDet=["Contact Details: pedrocarlosro@gmail.com","www.linkedin.com/in/pcrl"]
 
-print(sPers + sFrEd + sCrLea ,"\n" ,lCtcDet, ";)")
+print(sPers + sFrEd + sCrLea , ";)")
