@@ -1,1 +1,0 @@
-Traditional OLS and Logistic Regression models. The datasets (in .xlsx format) contain stock information of two US companies listed in the NASDAQ. In addition, one may also find a  dataset containing spot and future prices of a financial instrument, (also in .xlsx format. 
